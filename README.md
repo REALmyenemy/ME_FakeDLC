@@ -67,8 +67,10 @@ would make var 1, var 2 and var 15 values exactly 4.
     you have someone else fixing them.
   
   FAQ:
+  
   Q: Why is the name FakeDLC? It just unlocks already present content
-  A: The request was "A plugin to make it feel like DLC, even if it's just locked content". This plugin just unlocks that protected content, and along the default RPG Maker behavior to keep things together, you can mix it to make it a actual DLC plugin.
+  
+  A: The request was actually "A plugin to make it feel like DLC, even if it's just locked content". This plugin just unlocks that protected content, and along the default RPG Maker behavior to keep things together, you can mix it to make it a actual DLC plugin.
   
   
   
