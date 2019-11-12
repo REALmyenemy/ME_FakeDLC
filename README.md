@@ -73,7 +73,8 @@ would make var 1, var 2 and var 15 values exactly 4.
   
   
    @MightDo  List:
-  	- Extras: Plugin commands to enable and disable content in-game. This is in order so you can mix it with a online shop if you know how.
+   
+  - Extras: Plugin commands to enable and disable content in-game. This is in order so you can mix it with a online shop if you know how.
 
 
 You can always: 
