@@ -43,13 +43,11 @@ About:
 		]
 	}
   In this example, you set var Y and var Z to X, for example, 
-  "MEFD_Vars": {
-	"4": [
-		1,
-		2,
-		15
-	]
-	would make var 1, var 2 and var 15 values exactly 4.
+
+	"MEFD_Vars": {
+		"4": [1,2,15]
+	}
+would make var 1, var 2 and var 15 values exactly 4.
 
   Beware, since this is a public script, these instructions can be checked by cheaters!
   
