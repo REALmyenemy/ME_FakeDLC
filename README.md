@@ -6,10 +6,12 @@ It's actually to unlock already locked content. You can mix this up with native 
 
 Parameters:
  - File name:
+ 
    The file this plugin will read
 
   
- - Overwrite on load
+ - Overwrite on load:
+ 
   Sets if to run it on "Load game" or only in "New Game"
   
 About:
@@ -24,29 +26,29 @@ About:
   Place a file in <Project>/data named as what you wrote in "File name", dlc.json by default with the switches/variables to set.
   Remember to write the extension too! TXT and extensionless should do, too.
   
-  If you want to set a switch on, you use 
-  {
-  "MEFD_Switches": {
-		"on": [X,Y,Z]
-  }
+	If you want to set a switch on, you use 
+  	{
+  	"MEFD_Switches": {
+			"on": [X,Y,Z]
+  	}
   Where X, Y and Z are the switch numbers. If you use one, don't place the comma!
   The same if you want to turn them off, but on "off".
   
   For variables it's slightly different.
   
-"MEFD_Vars": {
-	"X": [
-		Y,
-		Z,
-	]
-}
+	"MEFD_Vars": {
+		"X": [
+			Y,
+			Z,
+		]
+	}
   In this example, you set var Y and var Z to X, for example, 
   "MEFD_Vars": {
-		"4": [
-			1,
-			2,
-			15
-		]
+	"4": [
+		1,
+		2,
+		15
+	]
 	would make var 1, var 2 and var 15 values exactly 4.
 
   Beware, since this is a public script, these instructions can be checked by cheaters!
