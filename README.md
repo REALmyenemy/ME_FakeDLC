@@ -1,4 +1,3 @@
-=======
 # ME_FakeDLC-Demo
 Version 1.0.0
 
@@ -74,15 +73,9 @@ would make var 1, var 2 and var 15 values exactly 4.
   A: The request was actually "A plugin to make it feel like DLC, even if it's just locked content". This plugin just unlocks that protected content, and along the default RPG Maker behavior to keep things together, you can mix it to make it a actual DLC plugin.
   
   
-  
-   @MightDo  List:
-   
-  - Extras: Plugin commands to enable and disable content in-game. This is in order so you can mix it with a online shop if you know how.
-
 
 You can always: 
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S717SV2)
 
 Happy RPG Making!
->>>>>>> master
