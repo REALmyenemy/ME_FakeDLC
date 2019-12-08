@@ -1,3 +1,4 @@
+=======
 # ME_FakeDLC-Demo
 Version 1.0.0
 
@@ -84,3 +85,4 @@ You can always:
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S717SV2)
 
 Happy RPG Making!
+>>>>>>> master
