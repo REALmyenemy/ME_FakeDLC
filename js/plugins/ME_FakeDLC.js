@@ -99,7 +99,7 @@ Scene_Title.prototype.commandNewGame = function() {
 
 Scene_Load.prototype.onLoadSuccess = function() {
 	_loadSuccess.call(this);
-	if (override)
+	if (override&&override!='false')
 		setUnlocks();
 };
 
